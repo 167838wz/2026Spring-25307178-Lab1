@@ -35,3 +35,10 @@ Build the HAP:
 ```bash
 hvigor assembleHap
 ```
+
+## Advanced Stage App Study
+
+An additional OpenHarmony Stage model sample and report are included under
+`advanced-stage-app/`. It analyzes the official `AbilityStartMode` project,
+covering `AbilityStage`, `WindowStage`, multiple `UIAbility` launch modes, and
+verification on a DevEco Studio HarmonyOS emulator.
